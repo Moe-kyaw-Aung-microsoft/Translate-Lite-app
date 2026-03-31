@@ -17,5 +17,18 @@ Features:
 - GitHub Pages landing site
 
 ## Website
-https://moekyawaung-graduate.github.
-io/
+https://moekyawaung-graduate.github.io/
+
+## Repository Structure
+
+```bash
+.
+├── .github/
+├── backend/
+├── docs/
+├── flutter/
+├── react-native/
+├── localization/
+├── index.html
+├── PROJECT_SETUP.md
+└── README.md
